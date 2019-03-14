@@ -1,5 +1,5 @@
 {
-  "name": "@revenuewire/express-middleware-ip",
+  "name": "@mallocapps/express-middleware-ip",
   "version": "1.0.0",
   "description": "IP address middleware for express",
   "main": "ip.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/revenuewire/express-middleware-ip.git"
+    "url": "git+https://github.com/mallocapps/express-middleware-ip.git"
   },
-  "author": "",
+  "author": "Scott Wang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/revenuewire/express-middleware-ip/issues"
+    "url": "https://github.com/mallocapps/express-middleware-ip/issues"
   },
-  "homepage": "https://github.com/revenuewire/express-middleware-ip#readme"
+  "homepage": "https://github.com/mallocapps/express-middleware-ip#readme"
 }
